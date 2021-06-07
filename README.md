@@ -1,4 +1,4 @@
-# rl-robot
+# rl-robot （torch, Gazebo）
 Reinforcement learning with Gym, Gazebo and real robot
 
 # Develop environment
